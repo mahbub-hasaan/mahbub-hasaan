@@ -12,7 +12,6 @@ C#, Java, JavaScript, TypeScript
 
 About me:
 
-- 🔭 I’m currently working at Leads Corporation ltd.
 - 🌱 I’m currently learning Docker and Microservice.
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
